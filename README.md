@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kompiuter/bing-wallpaper/blob/master/resources/geckorain.jpg?raw=true" alt="gecko" width="728"/>
+  <img src="https://www.bing.com/th?id=OHR.SkyIslands_EN-US4150149691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="Bing" width="728"/>
 </p>
 
 # Bing Wallpaper
@@ -39,6 +39,8 @@ A tray icon is visible while the application is running (thanks @MichaelMK) whic
 
 * View wallpaper source
 * Force wallpaper update
+* View Previous image
+* View Next image
 * Save wallpaper as image
 * Disable launch on startup
 
