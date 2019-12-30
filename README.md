@@ -12,7 +12,7 @@ Keep your wallpaper up to date with Bing's image of the day, every day.
  - Grab the code
 
 ```bash
-git clone https://github.com/kompiuter/bing-wallpaper.git
+git clone https://github.com/fifthstreetpartners/bing-wallpaper.git
 ````
 
  - Open .sln file in Visual Studio
@@ -24,10 +24,6 @@ git clone https://github.com/kompiuter/bing-wallpaper.git
 ```
 .../BingWallpaper/bin/Release/BingWallpaper.exe
 ```
-
-## Binary
-
-Download from [Softpedia](http://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/KK-Bing-Wallpaper.shtml)
 
 # What does this do?
 
